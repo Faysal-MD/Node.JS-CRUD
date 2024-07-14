@@ -1,0 +1,8 @@
+1) npm init -y
+2) create index.js
+3) add it to package.json under scripts object
+4) then install express
+5) go to npm js
+6) then install nodemon
+7) add it to package.json under scripts object
+8)
